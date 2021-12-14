@@ -1,0 +1,7 @@
+﻿  ptb2.c
+c:\users\admin\desktop\bai1\bai3\pt bac 2\project1\project1\ptb2.c(20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\bai1\bai3\pt bac 2\project1\project1\ptb2.c(26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\bai1\bai3\pt bac 2\project1\project1\ptb2.c(27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\admin\desktop\bai1\bai3\pt bac 2\project1\project1\ptb2.c(36): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\admin\desktop\bai1\bai3\pt bac 2\project1\project1\ptb2.c(37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Project1.vcxproj -> C:\Users\admin\Desktop\bai1\bai3\pt bac 2\Project1\Debug\Project1.exe
